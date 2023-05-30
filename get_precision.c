@@ -1,6 +1,3 @@
-get_precision.c
-
-
 #include "main.h"
 
 /**
